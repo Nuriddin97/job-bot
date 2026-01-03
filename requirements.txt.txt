@@ -1,4 +1,1 @@
-aiogram
-reportlab
-requests
-beautifulsoup4
+
